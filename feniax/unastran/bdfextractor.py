@@ -75,12 +75,3 @@ def iterate_rigidelements(bdf: BDF, ktype):
         if v.type == ktype:
             container.append(builder(bdf, element=v, ID=k))
     return container
-
-
-if __name__ == "__main__":
-    bdf = BDF()
-    bdf.read_bdf(
-        "/media/acea/work/projects/FEM4INAS/examples/wingSP/NASTRAN/wing400d.bdf"
-    )
-    # rbe3 = iterate_rigidelements(bdf, "RBE3")
-    rbe3 = build_RBE3(bdf)
