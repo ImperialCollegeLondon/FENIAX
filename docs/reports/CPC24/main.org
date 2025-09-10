@@ -10,8 +10,8 @@ Finally, automatic differentiation on both static and dynamic problems is valida
 
 *Program summary*
 Program Title: FENIAX 
-/Library link to program files:/ https://github.com/ACea15/FENIAX/tree/master/docs/reports/CPC24
-/Developer’s repository link:/ https://github.com/ACea15/FENIAX
+/Library link to program files:/ https://github.com/ImperialCollegeLondon/FENIAX/tree/master/docs/reports/CPC24
+/Developer’s repository link:/ https://github.com/ImperialCollegeLondon/FENIAX
 /Licensing provisions:/ GNU GPLv3
 /Programming language:/ Python
 /Nature of problem:/ Aeroelastic solutions that couple structural and fluid domains are paramount in the study of many engineering structures such aeroplanes, bridges or wind-turbines. They often feature slender and light components that can potentially undergo large deflections that require of geometrically nonlinear modelling tools, which are linked to higher computational resources and potentially prohibitively simulation times. In addition, since the advent of computers, organizations have gathered an expertise to build large finite-element (FE) models based on linear formulations that might not be easily amendable for nonlinear analysis. 

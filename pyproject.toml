@@ -31,7 +31,7 @@ classifiers = [
   #"Topic :: Scientific/Engineering :: Aeroelasticity",
 ]
 
-urls = {repository = "https://github.com/ACea15/FENIAX" }
+urls = {repository = "https://github.com/ImperialCollegeLondon/FENIAX" }
 dependencies = ["numpy",
                 "scipy",
              	"pandas",

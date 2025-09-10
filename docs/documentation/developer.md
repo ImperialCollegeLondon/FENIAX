@@ -6,10 +6,10 @@
 
 # Examples
 
-- The examples folder is a git [subtree](https://www.geeksforgeeks.org/git/git-subtree/) of the [FENIAXexamples](https://github.com/ACea15/FENIAXexamples) repo. The workflow followed is to install FENIAX anywhere in the system and the FENIAXexamples separated where one wants to run cases so that the code is not clutter with output files. 
+- The examples folder is a git [subtree](https://www.geeksforgeeks.org/git/git-subtree/) of the [FENIAXexamples](https://github.com/ImperialCollegeLondon/FENIAXexamples) repo. The workflow followed is to install FENIAX anywhere in the system and the FENIAXexamples separated where one wants to run cases so that the code is not clutter with output files. 
 
 - It is encouraged to keep adding new examples to FENIAXexamples, then updating the /examples in FENIAX: 
-`git subtree add --prefix examples/ https://github.com/ACea15/FENIAXexamples --squash`
+`git subtree add --prefix examples/ https://github.com/ImperialCollegeLondon/FENIAXexamples --squash`
 
 - Once cases are added, new tests should be included as a validation. Note the tests rely on data in the /examples folder. 
 

@@ -28,9 +28,9 @@ def home():
         
         **👈 Select a tab from the sidebar** to jump to the postprocessing analysis
         ### Want to learn more?
-        - Check out our [Repo](https://github.com/ACea15/FEM4INAS)
+        - Check out our [Repo](https://github.com/ImperialCollegeLondon/FENIAX)
         ### See more complex demos
-        - In the folder [examples](https://github.com/ACea15/FEM4INAS/tree/master/examples)
+        - In the folder [examples](https://github.com/ImperialCollegeLondon/FENIAX/tree/master/examples)
         """
     )
 

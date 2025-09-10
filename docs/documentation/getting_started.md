@@ -6,7 +6,7 @@ Welcome to the `Getting Started` guide for **FENIAX**.
 
 - Currently the code has been tested and is developed in Linux and MacOS. Get the code from GitHub first, and move to the directory:
 ```
-git clone https://github.com/ACea15/FENIAX.git
+git clone https://github.com/ImperialCollegeLondon/FENIAX.git
 cd FENIAX
 ```
 - see pyproject.toml file for the options available. Python 3.10+ is required.

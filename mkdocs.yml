@@ -3,8 +3,8 @@ site_description: Documentation for aeroelastic library FENIAX.
 site_author: Alvaro Cea
 docs_dir: docs/documentation
 
-repo_url: https://github.com/ACea15/FENIAX
-repo_name: ACea15/FENIAX
+repo_url: https://github.com/ImperialCollegeLondon/FENIAX
+repo_name: ImperialCollegeLondon/FENIAX
 edit_uri: ""  # No edit button, as some of our pages are in /docs and some in /examples via symlink, so it's impossible for them all to be accurate
 strict: False  # Don't allow warnings during the build process
 

@@ -1,4 +1,4 @@
-This is the list of examples that have been tested in the [[https://github.com/ACea15/FENIAX/blob/master/][FENIAX]] program. The examples and their categories are expected to keep growing.
+This is the list of examples that have been tested in the [[https://github.com/ImperialCollegeLondon/FENIAX/blob/master/][FENIAX]] program. The examples and their categories are expected to keep growing.
 
 - Usually inside each example there is a form of settings.py file that when run as "python settings.py" generates a results folder with the output of the simulation (don't forget to activate your python environment if using a package manager).
 - For postprocessing, we have develop a small dashboard application intended for productivity: plots of the various inputs and outputs of the program are generated automatically allowing fast visualisation and results assessment.
